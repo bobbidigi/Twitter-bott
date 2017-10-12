@@ -1,6 +1,6 @@
 import tweepy, sys, time
 import requests
-
+from secrets import *
 
 def tweetToTwitter():
     consumer_key = 'MpoM8pyCYfuoJwMvbYmpr16ad'
